@@ -1,0 +1,16 @@
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Today class\obj\Debug\net5.0\Today class.csprojAssemblyReference.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Today class\obj\Debug\net5.0\Today class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Today class\obj\Debug\net5.0\Today class.AssemblyInfoInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Today class\obj\Debug\net5.0\Today class.AssemblyInfo.cs
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Today class\obj\Debug\net5.0\Today class.csproj.CoreCompileInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Today class\bin\Debug\net5.0\Today class.exe
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Today class\bin\Debug\net5.0\Today class.deps.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Today class\bin\Debug\net5.0\Today class.runtimeconfig.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Today class\bin\Debug\net5.0\Today class.runtimeconfig.dev.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Today class\bin\Debug\net5.0\Today class.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Today class\bin\Debug\net5.0\ref\Today class.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Today class\bin\Debug\net5.0\Today class.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Today class\obj\Debug\net5.0\Today class.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Today class\obj\Debug\net5.0\ref\Today class.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Today class\obj\Debug\net5.0\Today class.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Today class\obj\Debug\net5.0\Today class.genruntimeconfig.cache
